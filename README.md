@@ -4,7 +4,7 @@ This project presents the homotopy or fundamental group algorithm of a compact R
 
 The homology algo is well known. I enhanced it to give a homotopy algorithm based on the fact that the first homology group is the Abelianization of fundamental group.
 
-For more details of persistent homology, please go to Xianfeng David Gu's homepage. Professor Gu gave a series of computational geometry lectures during summer 2020, which I benefited a lot from. This project is based on his lectures. 
+For more details of persistent homology, please go to Xianfeng David Gu's homepage. Professor Gu gave a series of computational geometry lectures during summer 2020 (I gave two guest lectures ^-^), which I benefited a lot from. This project is based on his lectures. 
 https://www3.cs.stonybrook.edu/~gu/lectures/2020/
 
 ## System
