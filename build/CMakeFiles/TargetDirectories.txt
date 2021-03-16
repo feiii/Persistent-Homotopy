@@ -1,0 +1,13 @@
+/home/Conformal Geometry/Assignment_7/build/CMakeFiles/install/strip.dir
+/home/Conformal Geometry/Assignment_7/build/CMakeFiles/install.dir
+/home/Conformal Geometry/Assignment_7/build/CMakeFiles/install/local.dir
+/home/Conformal Geometry/Assignment_7/build/CMakeFiles/list_install_components.dir
+/home/Conformal Geometry/Assignment_7/build/CMakeFiles/edit_cache.dir
+/home/Conformal Geometry/Assignment_7/build/CMakeFiles/rebuild_cache.dir
+/home/Conformal Geometry/Assignment_7/build/handle_tunnel_loop/CMakeFiles/install/strip.dir
+/home/Conformal Geometry/Assignment_7/build/handle_tunnel_loop/CMakeFiles/edit_cache.dir
+/home/Conformal Geometry/Assignment_7/build/handle_tunnel_loop/CMakeFiles/rebuild_cache.dir
+/home/Conformal Geometry/Assignment_7/build/handle_tunnel_loop/CMakeFiles/list_install_components.dir
+/home/Conformal Geometry/Assignment_7/build/handle_tunnel_loop/CMakeFiles/install/local.dir
+/home/Conformal Geometry/Assignment_7/build/handle_tunnel_loop/CMakeFiles/HandleTunnelLoop.dir
+/home/Conformal Geometry/Assignment_7/build/handle_tunnel_loop/CMakeFiles/install.dir
